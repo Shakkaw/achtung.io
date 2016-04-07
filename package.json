@@ -1,0 +1,16 @@
+{
+  "name": "achtung.io",
+  "version": "1.0.0",
+  "description": "It's only a game, why you have to be mad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.11",
+    "socket.io": "^1.4.5"
+  }
+}
